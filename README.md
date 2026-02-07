@@ -10,8 +10,6 @@ It was built as part of the assignment, with a focus on **visual accuracy, layou
 - **Hosted URL (Vercel):**  
   https://cursor-landing-page-mu.vercel.app/
 
-- **GitHub Repository:**  
-  https://github.com/ashaafkhan/Dev-Tool-Landing-Page---Cursor
 
 ---
 
